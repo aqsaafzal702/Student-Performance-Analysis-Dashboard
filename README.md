@@ -17,17 +17,17 @@ The dashboard features slicers and filters, allowing users to explore different 
 # Key Insights: 
 The dashboard provides a summary of overall GPA trends, grade distributions, and other relevant performance metrics, aiding in identifying student achievements and areas that may need attention.
 # PivotTables and Charts:
-# Chart 1: Grade vs. Parental ID vs. GPA Average
+Chart 1: Grade vs. Parental ID vs. GPA Average
 Displays the relationship between student grades, parental involvement (via parental ID), and the average GPA.
-# Chart 2: Gender vs. Study Time
+Chart 2: Gender vs. Study Time
 Illustrates how study time varies across different genders, providing insights into study habits.
-# Chart 3: GPA vs. Sports
+Chart 3: GPA vs. Sports
 Shows the correlation between students' participation in sports and their GPA, analyzing the impact of sports activities on academic performance.
-# Chart 4: GPA vs. Extracurricular Activities
+Chart 4: GPA vs. Extracurricular Activities
 Examines the relationship between student participation in extracurricular activities and their GPA.
-# Chart 5: Gender-wise Grades
+ Chart 5: Gender-wise Grades
 Compares the grade distribution across genders to analyze performance differences.
-# Chart 6: Age vs. Grade Class - GPA Average
+ Chart 6: Age vs. Grade Class - GPA Average
 Analyzes the average GPA across different age groups and grade classes.
 # Instructions:
 Open the Workbook: Launch the Excel workbook to begin exploring the data.
