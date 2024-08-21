@@ -5,7 +5,7 @@ This project analyzes student performance data using an interactive Excel dashbo
 ## Data Description:
 
 ## Dataset: 
-The workbook contains student performance data, including columns like GPA, grades (A, B, C), gender, parental involvement, extracurricular activities, and other relevant metrics.
+The workbook contains student performance data, including columns like GPA, grades (A, B, C), gender, parental involvement, extracurricular activities, and other relevant metrics. 
 ## Data Cleaning:
 The dataset has been cleaned to remove duplicates and handle any missing values to ensure accurate analysis.
 Dashboard Details:
